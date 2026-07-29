@@ -1,4 +1,4 @@
-// Write a program to pring DSA 5 times by using for loop
+// Write a program to print DSA 5 times by using for loop
 
 #include <stdio.h>
 int main()
