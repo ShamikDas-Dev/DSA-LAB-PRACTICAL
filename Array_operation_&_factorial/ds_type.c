@@ -1,3 +1,5 @@
+// Enter data structure name to know its type
+
 #include<stdio.h>
 #include<string.h>
 int main(){

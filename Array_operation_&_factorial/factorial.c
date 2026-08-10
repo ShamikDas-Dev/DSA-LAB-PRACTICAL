@@ -27,7 +27,7 @@ int main()
     scanf("%d", &n);
    
 
-    printf("Factorial of %d is %d using reccursion \n",n, fact(n));
+    printf("Factorial of %d is %d using recursion \n",n, fact(n));
     printf("Factorial of %d is %d using for loop",n, itt(n));
     return 0;  
 }
